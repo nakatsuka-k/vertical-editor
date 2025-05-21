@@ -2,6 +2,10 @@
 
 日本語の縦書き原稿用紙スタイルで入力できる **React + TailwindCSS** 製エディタです。
 
+## 取り合えず使ってみる
+
+https://vertical-editor-j8u28jzdb-nakatsuka-ks-projects.vercel.app/
+
 ![demo](./demo.gif)
 
 ---
